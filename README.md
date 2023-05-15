@@ -10,3 +10,5 @@ Uma rede simples, mas aonde foi possível aplicar conhecimentos da primeira part
 Um treinamento básico, entretanto aonde colocamos em prática o roteamento estático e entendemos como é complexo a administração de uma rede, onde cada RB/Router é importante estar devidamente configurado para não afetar a rede de um cliente.
 
 No segundo passo será aplicado conceitos de OSPF para otimizar o roteamento e a administração da rede. Top!
+
+Para acessar o laboratorio precisa-se do VMWare e do sistema de virtualização EVE-NG.
